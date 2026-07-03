@@ -2,7 +2,7 @@ let dice = document.getElementById('dice');
 let rollDice = document.getElementById('roll-dice');
 let history = document.getElementById('history');
 let ul = document.querySelector('ul');
-let rollCount = 0
+let rollCount = 1;
 
 function RollDice(){
     let dot =  getCount();

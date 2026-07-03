@@ -9,7 +9,7 @@ body{
     display:flex;
     justify-content: center;
     gap:10px;
-    background:linear-gradient(to right,rgb(229, 135, 149),lightgreen);
+    background:linear-gradient(to right,white,blue);
 }
 #box{
     width:450px;
@@ -47,7 +47,7 @@ body{
 }
 .roll div{
     display:inline-block;
-    width:80px;
+    width:90px;
     padding:7px;
     font-size: 25px;
 }
